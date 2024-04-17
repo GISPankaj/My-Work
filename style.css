@@ -112,7 +112,15 @@ footer {
     text-align: center;
     padding: 20px;
 }
-
+.description{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.kit{
+    margin-left: 15%;
+    margin-right: 15%;
+    color: #a20a3b;
+}
 /*-------------------------------------------------css for Small screens---------------------*/
 
 
